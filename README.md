@@ -1,5 +1,4 @@
 # IDmeSocialContacts
--
 IDmeSocialContacts is a simply library that helps extract contacts from Third Party API's.
 #Release Information 
 - **Version:** 1.0.0 (January 28, 2015)
